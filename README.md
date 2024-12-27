@@ -62,7 +62,7 @@ pkg update -y
 pkg upgrade -y
 pkg install git 
 git clone https://github.com/Ashera12/FFP
-cd FreeFire-Phishing
+cd FFP
 chmod +x *
 bash install
 ```
@@ -72,7 +72,7 @@ sudo apt update -y
 sudo apt upgrade -y
 sudo apt install git 
 git clone  https://github.com/Ashera12/FFP
-cd FreeFire-Phishing
+cd FFP
 chmod +x *
 bash install 
 ```
